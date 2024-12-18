@@ -17,11 +17,14 @@ A web-based system for managing support tickets, allowing admins and agents to h
 
 - **Admin Interaction**:
   - View all tickets
+  - View ticket statistics
   - Assign tickets to agents
   - Update ticket statuses
   - Delete tickets
   - Create admin user
   - Create agent user
+  - View all users
+  - Delete users
 
 - **Agent Interaction**:
   - View assigned tickets
